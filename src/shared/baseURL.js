@@ -1,3 +1,3 @@
-export const baseURL="thechakrarestaurant.herokuapp.com/";
+export const baseURL="https://cold-satin-dedication.glitch.me/";
 
 	

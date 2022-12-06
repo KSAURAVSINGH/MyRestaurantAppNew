@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "restaurantapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -51,5 +51,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Updated Restaurant App",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSAURAVSINGH/MyRestaurantAppNew.git"
+  },
+  "author": "kumarsaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSAURAVSINGH/MyRestaurantAppNew/issues"
+  },
+  "homepage": "https://github.com/KSAURAVSINGH/MyRestaurantAppNew#readme"
 }

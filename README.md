@@ -1,3 +1,4 @@
+## A Restaurant App Using React
 **MyRestaurantApp** is an interactive react built application that describes a typical restaurant with all the dishes and services they had to offer. 
 
 ## Visual Representation of Application
@@ -13,8 +14,8 @@
 
 <img width="1000" alt="Screenshot 2022-12-07 at 7 52 44 PM" src="https://user-images.githubusercontent.com/55026380/206290603-4fad5651-df80-4ddb-92a4-14359de25ba5.png">
 
-​## Project Structure
- 
+ ​
+ ## Project Structure
 ```terminal
 build
 public/

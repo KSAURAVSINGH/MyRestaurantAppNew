@@ -41,9 +41,9 @@ yarn.lock
 
  # Usage (run on your machine)
  ## Prerequisite
+- [Node](https://nodejs.org/en/download/) ^14.15.4 or above
+- [Yarn](https://yarnpkg.com/) ^1.22.19 or above
 
- Nodejs
 
- 
 
         

@@ -3,7 +3,7 @@
 </h1>
 **MyRestaurantApp** is an interactive react built application that describes a typical restaurant with all the dishes and services they had to offer. 
 
-## Visual Representation of Application
+# Visual Representation of Application
 <img width="1000" alt="Screenshot 2022-12-07 at 7 51 15 PM" src="https://user-images.githubusercontent.com/55026380/206204092-617f241f-768a-42a9-b85e-91ba0dd30b62.png">
 
 <img width="1000" alt="Screenshot 2022-12-07 at 7 52 04 PM" src="https://user-images.githubusercontent.com/55026380/206204302-3af55405-147a-4900-b747-c285573ae2b4.png">
@@ -17,7 +17,7 @@
 <img width="1000" alt="Screenshot 2022-12-07 at 7 52 44 PM" src="https://user-images.githubusercontent.com/55026380/206290603-4fad5651-df80-4ddb-92a4-14359de25ba5.png">
 
  ​
- ## Project Structure
+ # Project Structure
 ```terminal
 build
 public/
@@ -39,5 +39,11 @@ README.md
 yarn.lock
 ```
 
+ # Usage (run on your machine)
+ ## Prerequisite
+
+ Nodejs
+
+ 
 
         

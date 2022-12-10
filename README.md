@@ -95,7 +95,7 @@ tachyons | ^4.12.0
 web-vitals | ^2.1.0
 
 ## Json-server acting as Fake-api
-Used json file to store all the data required in this project.<br>
+**NOTICE** - Used json file to store all the data required in this project.<br>
 Refer the https://github.com/KSAURAVSINGH/json-server-deploy repository parallely to get the data in this project. Run both the projects on different terminals to talk to the json data.
 
 ## Contact Me

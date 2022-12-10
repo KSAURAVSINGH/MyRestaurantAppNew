@@ -49,7 +49,23 @@ yarn.lock
 - Install the Dependencies
 - Run the Project
 
+## Clone the Repository
+```terminal
+git clone https://github.com/KSAURAVSINGH/MyRestaurantAppNew.git
+```
+
+## Install the Dependencies
+```terminal
+yarn install
+```
+## Run the Project
+```terminal
+yarn start
+```
+
 ## Json-server acting as Fake-api
+Used json file to store all the data required in this project.<br>
+Refer the https://github.com/KSAURAVSINGH/json-server-deploy repository parallely to get the data in this project.
 
 
 

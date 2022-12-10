@@ -67,6 +67,8 @@ yarn start
 Used json file to store all the data required in this project.<br>
 Refer the https://github.com/KSAURAVSINGH/json-server-deploy repository parallely to get the data in this project.
 
+## Contact Me
+kumarsauravsingh1234567890@gmail.com
 
 
 

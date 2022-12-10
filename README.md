@@ -43,6 +43,16 @@ yarn.lock
 - [Node](https://nodejs.org/en/download/) ^14.15.4 or above
 - [Yarn](https://yarnpkg.com/) ^1.22.19 or above
 
+## Steps
+- Clone the repository
+- Install the Dependencies
+- Run the Project
+
+## Json-server acting as Fake-api
+
+
+
+
 
 
         

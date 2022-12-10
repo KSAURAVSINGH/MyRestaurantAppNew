@@ -50,6 +50,8 @@ yarn.lock
 - Run the Project
 
 ## Clone the Repository
+You can clone the repo or download the zip file.<br>
+To clone:
 ```terminal
 git clone https://github.com/KSAURAVSINGH/MyRestaurantAppNew.git
 ```
@@ -63,12 +65,18 @@ yarn install
 yarn start
 ```
 
+## Dependencies Used
+Name | Version
+--- | ---
+
+
 ## Json-server acting as Fake-api
 Used json file to store all the data required in this project.<br>
-Refer the https://github.com/KSAURAVSINGH/json-server-deploy repository parallely to get the data in this project.
+Refer the https://github.com/KSAURAVSINGH/json-server-deploy repository parallely to get the data in this project. Run both the projects on different terminals to talk to the json data.
 
 ## Contact Me
 kumarsauravsingh1234567890@gmail.com
+
 
 
 
